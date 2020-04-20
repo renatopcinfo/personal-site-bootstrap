@@ -1,0 +1,22 @@
+body {
+      font-family: calibri, sans-serif;
+      font-size: 16pt;
+      background-color: #222224;
+      color: lightgray;
+      margin-left: 1em;
+      margin-right: 1em;
+      padding-bottom: 0;
+      }
+    
+    a {
+      color: deepskyblue;
+      text-decoration: none;
+      }
+    a:hover {
+      background-color: darkslategray;
+    }
+    h1 {
+      font-weight: bold;
+    }
+    
+    
